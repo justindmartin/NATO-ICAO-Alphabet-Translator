@@ -1,7 +1,7 @@
 NATO Alphabet Translator
 =======================
 
-This is a PHP class that translates phrases into the NATO(ICAO) Phonetic Alphabet
+This is a PHP class that translates phrases into the NATO(ICAO) Phonetic Alphabet.
 
 *Examples are in the examples directory
 *The class itself is in the classes directory
